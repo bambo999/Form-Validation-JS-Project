@@ -1,1 +1,1 @@
-# Form-Validation-Project using html, css, and js.
+# Form-Validation-JS-Project using html, css, and js.
